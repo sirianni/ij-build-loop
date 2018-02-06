@@ -1,0 +1,600 @@
+2018-02-05 22:03:41,452 [ 558798]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2018-02-05 22:03:41,452 [ 558798]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2018-02-05 22:03:41,452 [ 558798]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2018-02-05 22:03:53,129 [ 570475]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2018-02-05 22:03:53,131 [ 570477]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/ktest 
+2018-02-05 22:03:53,192 [ 570538]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:03:53,190 [ 570536]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 72 ms: 0 min 0sec 
+2018-02-05 22:03:53,193 [ 570539]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:03:53,635 [ 570981]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:03:53,694 [ 571040]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2018-02-05 22:03:53,695 [ 571041]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2018-02-05 22:03:53,695 [ 571041]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2018-02-05 22:03:54,032 [ 571378]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/ktest 
+2018-02-05 22:03:54,434 [ 571780]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:03:54,434 [ 571780]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:03:54,622 [ 571968]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:03:54,646 [ 571992]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2018-02-05 22:03:54,646 [ 571992]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2018-02-05 22:03:54,646 [ 571992]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2018-02-05 22:05:01,893 [ 639239]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 5 to update, calculated in 0ms 
+2018-02-05 22:05:01,929 [ 639275]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 35ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:05:02,177 [ 639523]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/ktest 
+2018-02-05 22:05:03,242 [ 640588]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:05:03,242 [ 640588]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:05:03,594 [ 640940]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:05:03,619 [ 640965]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2018-02-05 22:05:03,619 [ 640965]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2018-02-05 22:05:03,619 [ 640965]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2018-02-05 22:05:07,621 [ 644967]   INFO - ea.checkstyle.CheckStylePlugin - CheckStyle Plugin loaded with project base dir: "/home/esirianni/tmp/ktest" 
+2018-02-05 22:05:07,629 [ 644975]   INFO - ellij.project.impl.ProjectImpl - 134 project components initialized in 74 ms 
+2018-02-05 22:05:07,634 [ 644980]   INFO - ckstyle.CheckStyleModulePlugin - CheckStyle Module Plugin loaded for module: "ktest" 
+2018-02-05 22:05:07,634 [ 644980]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 5 ms 
+2018-02-05 22:05:07,747 [ 645093]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:05:07,805 [ 645151]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 4ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:05:07,807 [ 645153]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 54ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:05:07,811 [ 645157]   INFO - tartup.impl.StartupManagerImpl - /home/esirianni/tmp/ktest/.idea case-sensitivity: expected=true actual=true 
+2018-02-05 22:05:07,811 [ 645157]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-02-05 22:05:07,925 [ 645271]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 120ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:05:07,942 [ 645288]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 393 ms 
+2018-02-05 22:05:08,056 [ 645402]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [] using cp:  
+2018-02-05 22:05:08,421 [ 645767]   INFO - j.ide.ui.OptionsTopHitProvider - 153 ms spent to cache options in project 
+2018-02-05 22:05:08,492 [ 645838]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-02-05 22:05:08,713 [ 646059]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:05:08,741 [ 646087]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2018-02-05 22:05:08,741 [ 646087]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2018-02-05 22:05:08,741 [ 646087]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2018-02-05 22:05:10,261 [ 647607]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:05:10,261 [ 647607]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:05:10,898 [ 648244]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:05:10,925 [ 648271]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2018-02-05 22:05:10,925 [ 648271]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2018-02-05 22:05:10,925 [ 648271]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2018-02-05 22:05:35,022 [ 672368]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /usr/lib/jvm/java-1.8.0-openjdk-amd64 
+2018-02-05 22:05:35,028 [ 672374]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /usr/lib/jvm/java-1.8.0-openjdk-amd64 
+2018-02-05 22:05:35,147 [ 672493]   INFO - ea.checkstyle.CheckStylePlugin - CheckStyle Plugin loaded with project base dir: "/home/esirianni/tmp/demo" 
+2018-02-05 22:05:35,150 [ 672496]   INFO - ellij.project.impl.ProjectImpl - 134 project components initialized in 32 ms 
+2018-02-05 22:05:35,151 [ 672497]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2018-02-05 22:05:35,289 [ 672635]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:05:35,472 [ 672818]   INFO - tartup.impl.StartupManagerImpl - ExternalSystemStartupActivity run in 161ms under project opening modal progress 
+2018-02-05 22:05:35,472 [ 672818]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 175ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:05:35,592 [ 672938]   INFO - tartup.impl.StartupManagerImpl - /home/esirianni/tmp/demo/.idea case-sensitivity: expected=true actual=true 
+2018-02-05 22:05:35,592 [ 672938]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-02-05 22:05:35,661 [ 673007]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:05:35,663 [ 673009]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 2ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:05:35,802 [ 673148]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 722 ms 
+2018-02-05 22:05:35,844 [ 673190]   INFO - ckstyle.CheckStyleModulePlugin - CheckStyle Module Plugin loaded for module: "demo" 
+2018-02-05 22:05:35,846 [ 673192]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-02-05 22:05:35,978 [ 673324]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /usr/lib/jvm/java-1.8.0-openjdk-amd64 
+2018-02-05 22:05:35,979 [ 673325]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /usr/lib/jvm/java-1.8.0-openjdk-amd64 
+2018-02-05 22:05:36,023 [ 673369]   INFO - xecution.GradleExecutionHelper - Passing command-line args to Gradle Tooling API: -Didea.version=2017.3.4 -Didea.resolveSourceSetDependencies=true --init-script /tmp/ijinit.gradle 
+2018-02-05 22:05:36,139 [ 673485]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-02-05 22:05:36,444 [ 673790]   INFO - j.ide.ui.OptionsTopHitProvider - 251 ms spent to cache options in project 
+2018-02-05 22:05:36,572 [ 673918]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [] using cp:  
+2018-02-05 22:05:36,574 [ 673920]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /usr/lib/jvm/java-1.8.0-openjdk-amd64 
+2018-02-05 22:05:36,575 [ 673921]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [org.gradle.kotlin.dsl.KotlinBuildScript] using cp: /home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-core-api-4.2.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-core-4.2.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-kotlin-dsl-tooling-models-0.11.1.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-kotlin-dsl-0.11.1.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-kotlin-dsl-tooling-builders-0.11.1.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/kotlin-stdlib-1.1.4-3.jar 
+2018-02-05 22:05:36,590 [ 673936]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /usr/lib/jvm/java-1.8.0-openjdk-amd64 
+2018-02-05 22:05:36,591 [ 673937]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [org.gradle.kotlin.dsl.KotlinSettingsScript] using cp: /home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-core-api-4.2.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-core-4.2.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-kotlin-dsl-tooling-models-0.11.1.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-kotlin-dsl-0.11.1.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-kotlin-dsl-tooling-builders-0.11.1.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/kotlin-stdlib-1.1.4-3.jar 
+2018-02-05 22:05:36,699 [ 674045]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 1ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:05:36,866 [ 674212]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 167ms; general responsiveness: ok; EDT responsiveness: 1/1 sluggish 
+2018-02-05 22:05:36,866 [ 674212]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 9 files to update 
+2018-02-05 22:05:37,512 [ 674858]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 646ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:05:37,710 [ 675056]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:05:39,600 [ 676946]   INFO - ckstyle.CheckStyleModulePlugin - CheckStyle Module Plugin loaded for module: "demo_test" 
+2018-02-05 22:05:39,602 [ 676948]   INFO - ckstyle.CheckStyleModulePlugin - CheckStyle Module Plugin loaded for module: "demo_main" 
+2018-02-05 22:05:39,911 [ 677257]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-02-05 22:05:39,965 [ 677311]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 4ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:05:40,246 [ 677592]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:05:40,247 [ 677593]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:05:41,026 [ 678372]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:05:41,147 [ 678493]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 1181ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:05:41,410 [ 678756]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:05:41,680 [ 679026]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 0 to update, calculated in 0ms 
+2018-02-05 22:05:43,822 [ 681168]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:05:43,822 [ 681168]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:05:43,826 [ 681172]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-02-05 22:05:43,898 [ 681244]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:05:43,985 [ 681331]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 87ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:05:44,382 [ 681728]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:05:44,471 [ 681817]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:05:46,797 [ 684143]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:05:46,797 [ 684143]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:05:47,389 [ 684735]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:05:47,450 [ 684796]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:05:49,657 [ 687003]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:05:49,657 [ 687003]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:05:50,248 [ 687594]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:05:50,313 [ 687659]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:05:52,525 [ 689871]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:05:52,526 [ 689872]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:05:53,095 [ 690441]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:05:53,179 [ 690525]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:05:55,674 [ 693020]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:05:55,674 [ 693020]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:05:56,255 [ 693601]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:05:56,336 [ 693682]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:05:58,495 [ 695841]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:05:58,495 [ 695841]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:05:59,026 [ 696372]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:05:59,132 [ 696478]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:06:01,366 [ 698712]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:06:01,366 [ 698712]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:06:01,940 [ 699286]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:06:02,015 [ 699361]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:06:04,302 [ 701648]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:06:04,303 [ 701649]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:06:04,880 [ 702226]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:06:04,956 [ 702302]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:06:07,329 [ 704675]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:06:07,329 [ 704675]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:06:07,966 [ 705312]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:06:07,998 [ 705344]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:06:10,258 [ 707604]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:06:10,258 [ 707604]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:06:10,821 [ 708167]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:06:10,893 [ 708239]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:06:13,127 [ 710473]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:06:13,127 [ 710473]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:06:13,711 [ 711057]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:06:13,790 [ 711136]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:06:16,008 [ 713354]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:06:16,009 [ 713355]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:06:16,613 [ 713959]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:06:16,661 [ 714007]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:06:17,512 [ 714858]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-02-05 22:06:17,651 [ 714997]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:06:17,749 [ 715095]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 97ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:06:19,242 [ 716588]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:06:19,242 [ 716588]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:06:19,822 [ 717168]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:06:19,847 [ 717193]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2018-02-05 22:06:19,847 [ 717193]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2018-02-05 22:06:19,847 [ 717193]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2018-02-05 22:06:19,897 [ 717243]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:06:20,491 [ 717837]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:06:20,492 [ 717838]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:06:20,696 [ 718042]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:06:20,719 [ 718065]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2018-02-05 22:06:20,719 [ 718065]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2018-02-05 22:06:20,719 [ 718065]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2018-02-05 22:06:30,308 [ 727654]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:06:30,355 [ 727701]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:06:30,355 [ 727701]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:06:30,561 [ 727907]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:06:30,586 [ 727932]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2018-02-05 22:06:30,586 [ 727932]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2018-02-05 22:06:30,586 [ 727932]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2018-02-05 22:07:08,870 [ 766216]   WARN - eInsight.daemon.LineMarkerInfo - Performance warning: LineMarker is supposed to be registered for leaf elements only, but got: IgnoreEntryDirectoryImpl(ENTRY_DIRECTORY) (class mobi.hsz.idea.gitignore.psi.impl.IgnoreEntryDirectoryImpl) instead. First child: PsiElement(<slash>) (class com.intellij.psi.impl.source.tree.LeafPsiElement)
+Please see LineMarkerProvider#getLineMarkerInfo(PsiElement) javadoc for detailed explanations. 
+2018-02-05 22:07:08,877 [ 766223]   WARN - eInsight.daemon.LineMarkerInfo - Performance warning: LineMarker is supposed to be registered for leaf elements only, but got: IgnoreEntryDirectoryImpl(ENTRY_DIRECTORY) (class mobi.hsz.idea.gitignore.psi.impl.IgnoreEntryDirectoryImpl) instead. First child: PsiElement(<value>) (class com.intellij.psi.impl.source.tree.LeafPsiElement)
+Please see LineMarkerProvider#getLineMarkerInfo(PsiElement) javadoc for detailed explanations. 
+2018-02-05 22:07:08,882 [ 766228]   WARN - eInsight.daemon.LineMarkerInfo - Performance warning: LineMarker is supposed to be registered for leaf elements only, but got: IgnoreEntryDirectoryImpl(ENTRY_DIRECTORY) (class mobi.hsz.idea.gitignore.psi.impl.IgnoreEntryDirectoryImpl) instead. First child: PsiElement(<value>) (class com.intellij.psi.impl.source.tree.LeafPsiElement)
+Please see LineMarkerProvider#getLineMarkerInfo(PsiElement) javadoc for detailed explanations. 
+2018-02-05 22:07:08,882 [ 766228]   WARN - eInsight.daemon.LineMarkerInfo - Performance warning: LineMarker is supposed to be registered for leaf elements only, but got: IgnoreEntryDirectoryImpl(ENTRY_DIRECTORY) (class mobi.hsz.idea.gitignore.psi.impl.IgnoreEntryDirectoryImpl) instead. First child: PsiElement(<value>) (class com.intellij.psi.impl.source.tree.LeafPsiElement)
+Please see LineMarkerProvider#getLineMarkerInfo(PsiElement) javadoc for detailed explanations. 
+2018-02-05 22:07:08,883 [ 766229]   WARN - eInsight.daemon.LineMarkerInfo - Performance warning: LineMarker is supposed to be registered for leaf elements only, but got: IgnoreEntryDirectoryImpl(ENTRY_DIRECTORY) (class mobi.hsz.idea.gitignore.psi.impl.IgnoreEntryDirectoryImpl) instead. First child: PsiElement(<value>) (class com.intellij.psi.impl.source.tree.LeafPsiElement)
+Please see LineMarkerProvider#getLineMarkerInfo(PsiElement) javadoc for detailed explanations. 
+2018-02-05 22:07:08,883 [ 766229]   WARN - eInsight.daemon.LineMarkerInfo - Performance warning: LineMarker is supposed to be registered for leaf elements only, but got: IgnoreEntryDirectoryImpl(ENTRY_DIRECTORY) (class mobi.hsz.idea.gitignore.psi.impl.IgnoreEntryDirectoryImpl) instead. First child: PsiElement(<value>) (class com.intellij.psi.impl.source.tree.LeafPsiElement)
+Please see LineMarkerProvider#getLineMarkerInfo(PsiElement) javadoc for detailed explanations. 
+2018-02-05 22:07:08,883 [ 766229]   WARN - eInsight.daemon.LineMarkerInfo - Performance warning: LineMarker is supposed to be registered for leaf elements only, but got: IgnoreEntryDirectoryImpl(ENTRY_DIRECTORY) (class mobi.hsz.idea.gitignore.psi.impl.IgnoreEntryDirectoryImpl) instead. First child: PsiElement(<value>) (class com.intellij.psi.impl.source.tree.LeafPsiElement)
+Please see LineMarkerProvider#getLineMarkerInfo(PsiElement) javadoc for detailed explanations. 
+2018-02-05 22:07:18,426 [ 775772]   INFO - project.TargetPlatformDetector - Using default platform for file: DemoApplication.kt 
+2018-02-05 22:09:17,305 [ 894651]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /usr/lib/jvm/java-1.8.0-openjdk-amd64 
+2018-02-05 22:09:17,308 [ 894654]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /usr/lib/jvm/java-1.8.0-openjdk-amd64 
+2018-02-05 22:09:17,421 [ 894767]   INFO - ea.checkstyle.CheckStylePlugin - CheckStyle Plugin loaded with project base dir: "/home/esirianni/tmp/demo" 
+2018-02-05 22:09:17,425 [ 894771]   INFO - ellij.project.impl.ProjectImpl - 134 project components initialized in 34 ms 
+2018-02-05 22:09:17,425 [ 894771]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2018-02-05 22:09:17,598 [ 894944]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:09:17,643 [ 894989]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 24ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:09:17,766 [ 895112]   INFO - tartup.impl.StartupManagerImpl - /home/esirianni/tmp/demo/.idea case-sensitivity: expected=true actual=true 
+2018-02-05 22:09:17,767 [ 895113]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-02-05 22:09:17,877 [ 895223]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:09:17,933 [ 895279]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 55ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:09:17,934 [ 895280]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 558 ms 
+2018-02-05 22:09:18,061 [ 895407]   INFO - ckstyle.CheckStyleModulePlugin - CheckStyle Module Plugin loaded for module: "demo" 
+2018-02-05 22:09:18,063 [ 895409]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-02-05 22:09:18,189 [ 895535]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /usr/lib/jvm/java-1.8.0-openjdk-amd64 
+2018-02-05 22:09:18,189 [ 895535]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /usr/lib/jvm/java-1.8.0-openjdk-amd64 
+2018-02-05 22:09:18,222 [ 895568]   INFO - xecution.GradleExecutionHelper - Passing command-line args to Gradle Tooling API: -Didea.version=2017.3.4 -Didea.resolveSourceSetDependencies=true --init-script /tmp/ijinit.gradle 
+2018-02-05 22:09:18,226 [ 895572]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-02-05 22:09:18,724 [ 896070]   INFO - j.ide.ui.OptionsTopHitProvider - 232 ms spent to cache options in project 
+2018-02-05 22:09:18,978 [ 896324]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 1ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:09:19,146 [ 896492]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 168ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:09:19,146 [ 896492]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 2 files to update 
+2018-02-05 22:09:19,211 [ 896557]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 65ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:09:20,019 [ 897365]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:09:20,923 [ 898269]   INFO - ckstyle.CheckStyleModulePlugin - CheckStyle Module Plugin loaded for module: "demo_test" 
+2018-02-05 22:09:20,925 [ 898271]   INFO - ckstyle.CheckStyleModulePlugin - CheckStyle Module Plugin loaded for module: "demo_main" 
+2018-02-05 22:09:21,473 [ 898819]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-02-05 22:09:21,581 [ 898927]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 18ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:09:21,755 [ 899101]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 173ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:09:22,214 [ 899560]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:09:22,214 [ 899560]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:09:22,376 [ 899722]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:09:22,563 [ 899909]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:09:23,472 [ 900818]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:09:23,472 [ 900818]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:09:23,723 [ 901069]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:09:37,728 [ 915074]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 0 to update, calculated in 0ms 
+2018-02-05 22:09:50,977 [ 928323]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [] using cp:  
+2018-02-05 22:09:50,980 [ 928326]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /usr/lib/jvm/java-1.8.0-openjdk-amd64 
+2018-02-05 22:09:50,982 [ 928328]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [org.gradle.kotlin.dsl.KotlinBuildScript] using cp: /home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-core-api-4.2.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-core-4.2.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-kotlin-dsl-tooling-models-0.11.1.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-kotlin-dsl-0.11.1.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-kotlin-dsl-tooling-builders-0.11.1.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/kotlin-stdlib-1.1.4-3.jar 
+2018-02-05 22:09:50,988 [ 928334]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /usr/lib/jvm/java-1.8.0-openjdk-amd64 
+2018-02-05 22:09:50,989 [ 928335]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [org.gradle.kotlin.dsl.KotlinSettingsScript] using cp: /home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-core-api-4.2.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-core-4.2.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-kotlin-dsl-tooling-models-0.11.1.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-kotlin-dsl-0.11.1.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-kotlin-dsl-tooling-builders-0.11.1.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/kotlin-stdlib-1.1.4-3.jar 
+2018-02-05 22:09:55,719 [ 933065]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2018-02-05 22:09:56,161 [ 933507]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:09:59,711 [ 937057]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-02-05 22:09:59,726 [ 937072]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 3990 ms: 0 min 3sec 
+2018-02-05 22:09:59,740 [ 937086]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 1ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:09:59,866 [ 937212]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 126ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:10:00,329 [ 937675]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:10:05,271 [ 942617]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:10:05,271 [ 942617]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:10:05,869 [ 943215]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:10:08,463 [ 945809]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:10:08,708 [ 946054]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:10:11,693 [ 949039]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:10:11,693 [ 949039]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:10:12,269 [ 949615]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:10:12,332 [ 949678]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:10:15,373 [ 952719]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:10:15,373 [ 952719]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:10:15,879 [ 953225]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:10:15,972 [ 953318]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:10:18,562 [ 955908]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:10:18,562 [ 955908]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:10:19,145 [ 956491]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:10:19,206 [ 956552]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:10:21,850 [ 959196]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:10:21,851 [ 959197]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:10:22,411 [ 959757]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:10:22,487 [ 959833]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:10:25,269 [ 962615]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:10:25,269 [ 962615]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:10:25,840 [ 963186]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:10:25,908 [ 963254]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:10:28,604 [ 965950]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:10:28,604 [ 965950]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:10:29,175 [ 966521]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:10:29,234 [ 966580]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:10:32,296 [ 969642]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:10:32,296 [ 969642]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:10:32,879 [ 970225]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:10:32,932 [ 970278]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:10:36,090 [ 973436]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:10:36,090 [ 973436]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:10:36,680 [ 974026]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:10:36,730 [ 974076]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:10:39,932 [ 977278]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:10:39,932 [ 977278]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:10:40,476 [ 977822]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:10:40,562 [ 977908]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:10:43,217 [ 980563]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:10:43,217 [ 980563]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:10:43,806 [ 981152]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:10:43,849 [ 981195]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:10:46,574 [ 983920]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:10:46,574 [ 983920]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:10:47,171 [ 984517]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:10:47,228 [ 984574]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:10:49,962 [ 987308]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:10:49,962 [ 987308]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:10:50,561 [ 987907]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:10:50,613 [ 987959]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:10:53,534 [ 990880]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:10:53,534 [ 990880]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:10:54,175 [ 991521]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:10:54,194 [ 991540]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:10:56,911 [ 994257]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:10:56,911 [ 994257]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:10:57,508 [ 994854]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:10:57,568 [ 994914]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:10:59,959 [ 997305]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:10:59,960 [ 997306]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:11:00,507 [ 997853]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:11:00,604 [ 997950]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:11:03,043 [1000389]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:11:03,043 [1000389]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:11:03,627 [1000973]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:11:03,697 [1001043]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:11:06,536 [1003882]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:11:06,537 [1003883]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:11:07,148 [1004494]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:11:07,198 [1004544]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:11:08,346 [1005692]   INFO - ution.rmi.RemoteProcessSupport - Terminating: 18236/Maven3ServerImplcef7dc85 
+2018-02-05 22:11:09,072 [1006418]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-02-05 22:11:09,072 [1006418]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-02-05 22:11:09,072 [1006418]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2018-02-05 22:11:09,132 [1006478]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2018-02-05 22:11:09,134 [1006480]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-02-05 22:11:09,160 [1006506]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 69 auto-detected files
+Elapsed time on auto-detect: 163 ms 
+2018-02-05 22:11:09,171 [1006517]  ERROR - api.util.objectTree.ObjectNode - Editor of class com.intellij.openapi.editor.impl.EditorImpl hasn't been released: 
+com.intellij.openapi.util.TraceableDisposable.ObjectNotDisposedException: See stack trace responsible for creation of unreleased object below 
+	at com.intellij.openapi.editor.impl.EditorImpl.<init>(EditorImpl.java:146)
+	at com.intellij.openapi.editor.impl.EditorFactoryImpl.createEditor(EditorFactoryImpl.java:220)
+	at com.intellij.openapi.editor.impl.EditorFactoryImpl.createViewer(EditorFactoryImpl.java:190)
+	at com.intellij.execution.impl.ConsoleViewUtil.setupConsoleEditor(ConsoleViewUtil.java:68)
+	at com.intellij.execution.impl.ConsoleViewImpl.doCreateConsoleEditor(ConsoleViewImpl.java:903)
+	at com.intellij.execution.impl.ConsoleViewImpl.lambda$createConsoleEditor$10(ConsoleViewImpl.java:880)
+	at com.intellij.openapi.application.ReadAction.compute(ReadAction.java:47)
+	at com.intellij.execution.impl.ConsoleViewImpl.createConsoleEditor(ConsoleViewImpl.java:879)
+	at com.intellij.execution.impl.ConsoleViewImpl.initConsoleEditor(ConsoleViewImpl.java:452)
+	at com.intellij.execution.impl.ConsoleViewImpl.getComponent(ConsoleViewImpl.java:431)
+	at com.intellij.build.BuildTreeConsoleView$DetailsHandler.<init>(BuildTreeConsoleView.java:625)
+	at com.intellij.build.BuildTreeConsoleView.<init>(BuildTreeConsoleView.java:221)
+	at com.intellij.build.BuildView.onStartBuild(BuildView.java:127)
+	at com.intellij.build.BuildView.lambda$onEvent$0(BuildView.java:88)
+	at com.intellij.openapi.application.impl.ApplicationImpl.invokeAndWait(ApplicationImpl.java:653)
+	at com.intellij.openapi.application.impl.ApplicationImpl.invokeAndWait(ApplicationImpl.java:666)
+	at com.intellij.build.BuildView.onEvent(BuildView.java:87)
+	at com.intellij.build.MultipleBuildsView.lambda$onEvent$6(MultipleBuildsView.java:196)
+	at com.intellij.build.MultipleBuildsView.lambda$onEvent$8(MultipleBuildsView.java:324)
+	at com.intellij.build.MultipleBuildsView.lambda$new$1(MultipleBuildsView.java:110)
+	at com.intellij.util.containers.TransferToEDTQueue.processNext(TransferToEDTQueue.java:120)
+	at com.intellij.util.containers.TransferToEDTQueue.access$300(TransferToEDTQueue.java:37)
+	at com.intellij.util.containers.TransferToEDTQueue$1.run(TransferToEDTQueue.java:67)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:650)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:366)
+	at com.intellij.ide.IdeEventQueue.pumpEventsForHierarchy(IdeEventQueue.java:924)
+	at com.intellij.openapi.progress.util.ProgressWindow.startBlocking(ProgressWindow.java:217)
+	at com.intellij.openapi.progress.util.ProgressWindow.startBlocking(ProgressWindow.java:203)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runProcessWithProgressSynchronously(ApplicationImpl.java:589)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcessWithProgressSynchronously(CoreProgressManager.java:409)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.runProcessWithProgressSynchronously(ProgressManagerImpl.java:117)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runSynchronously(CoreProgressManager.java:318)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.run(CoreProgressManager.java:303)
+	at com.intellij.openapi.progress.Task.queue(Task.java:115)
+	at com.intellij.openapi.externalSystem.util.ExternalSystemUtil.refreshProject(ExternalSystemUtil.java:605)
+	at com.intellij.openapi.externalSystem.util.ExternalSystemUtil.refreshProject(ExternalSystemUtil.java:376)
+	at com.intellij.openapi.externalSystem.util.ExternalSystemUtil.refreshProject(ExternalSystemUtil.java:353)
+	at com.intellij.openapi.externalSystem.service.project.wizard.AbstractExternalProjectImportBuilder.lambda$ensureProjectIsDefined$3(AbstractExternalProjectImportBuilder.java:320)
+	at com.intellij.openapi.externalSystem.service.project.wizard.AbstractExternalProjectImportBuilder.executeAndRestoreDefaultProjectSettings(AbstractExternalProjectImportBuilder.java:363)
+	at com.intellij.openapi.externalSystem.service.project.wizard.AbstractExternalProjectImportBuilder.ensureProjectIsDefined(AbstractExternalProjectImportBuilder.java:318)
+	at com.intellij.openapi.externalSystem.service.project.wizard.SelectExternalProjectStep.validate(SelectExternalProjectStep.java:73)
+	at com.intellij.ide.util.newProjectWizard.AbstractProjectWizard.commitStepData(AbstractProjectWizard.java:246)
+	at com.intellij.ide.util.newProjectWizard.AbstractProjectWizard.doFinishAction(AbstractProjectWizard.java:202)
+	at com.intellij.ide.util.newProjectWizard.AbstractProjectWizard.doOKAction(AbstractProjectWizard.java:184)
+	at com.intellij.ide.wizard.AbstractWizard.access$200(AbstractWizard.java:49)
+	at com.intellij.ide.wizard.AbstractWizard$5.actionPerformed(AbstractWizard.java:189)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.Component.processMouseEvent(Component.java:6541)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6306)
+	at java.awt.Container.processEvent(Container.java:2237)
+	at java.awt.Component.dispatchEventImpl(Component.java:4897)
+	at java.awt.Container.dispatchEventImpl(Container.java:2295)
+	at java.awt.Component.dispatchEvent(Component.java:4719)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4889)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4526)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4467)
+	at java.awt.Container.dispatchEventImpl(Container.java:2281)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4719)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:764)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:737)
+	at java.awt.EventQueue$4.run(EventQueue.java:735)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:734)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:646)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:366)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:109)
+	at java.awt.WaitDispatchSupport$2.run(WaitDispatchSupport.java:190)
+	at java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:235)
+	at java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:233)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.awt.WaitDispatchSupport.enter(WaitDispatchSupport.java:233)
+	at java.awt.Dialog.show(Dialog.java:1084)
+	at com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$MyDialog.show(DialogWrapperPeerImpl.java:734)
+	at com.intellij.openapi.ui.impl.DialogWrapperPeerImpl.show(DialogWrapperPeerImpl.java:456)
+	at com.intellij.openapi.ui.DialogWrapper.invokeShow(DialogWrapper.java:1696)
+	at com.intellij.openapi.ui.DialogWrapper.show(DialogWrapper.java:1645)
+	at com.intellij.openapi.ui.DialogWrapper.showAndGet(DialogWrapper.java:1660)
+	at com.intellij.ide.actions.ImportModuleAction.doImport(ImportModuleAction.java:80)
+	at com.intellij.ide.actions.ImportProjectAction.actionPerformed(ImportProjectAction.java:29)
+	at com.intellij.ui.components.labels.ActionLink$1.linkSelected(ActionLink.java:67)
+	at com.intellij.ui.components.labels.LinkLabel.doClick(LinkLabel.java:156)
+	at com.intellij.ui.components.labels.ActionLink.doClick(ActionLink.java:80)
+	at com.intellij.ui.components.labels.LinkLabel$MyMouseHandler.mouseReleased(LinkLabel.java:352)
+	at java.awt.Component.processMouseEvent(Component.java:6541)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6306)
+	at java.awt.Container.processEvent(Container.java:2237)
+	at java.awt.Component.dispatchEventImpl(Component.java:4897)
+	at java.awt.Container.dispatchEventImpl(Container.java:2295)
+	at java.awt.Component.dispatchEvent(Component.java:4719)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4889)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4526)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4467)
+	at java.awt.Container.dispatchEventImpl(Container.java:2281)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4719)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:764)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:737)
+	at java.awt.EventQueue$4.run(EventQueue.java:735)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:734)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:646)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:366)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-02-05 22:11:09,175 [1006521]  ERROR - api.util.objectTree.ObjectNode - IntelliJ IDEA 2017.3.4  Build #IC-173.4548.28 
+2018-02-05 22:11:09,175 [1006521]  ERROR - api.util.objectTree.ObjectNode - JDK: 1.8.0_152-release 
+2018-02-05 22:11:09,175 [1006521]  ERROR - api.util.objectTree.ObjectNode - VM: OpenJDK 64-Bit Server VM 
+2018-02-05 22:11:09,176 [1006522]  ERROR - api.util.objectTree.ObjectNode - Vendor: JetBrains s.r.o 
+2018-02-05 22:11:09,176 [1006522]  ERROR - api.util.objectTree.ObjectNode - OS: Linux 
+2018-02-05 22:11:09,176 [1006522]  ERROR - api.util.objectTree.ObjectNode - Last Action: Exit 
+2018-02-05 22:11:09,193 [1006539]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2018-02-05 22:11:09,195 [1006541]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2018-02-05 22:11:09,208 [1006554]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2018-02-05 22:11:09,229 [1006575]  ERROR - j.compiler.server.BuildManager - Already disposed 
+java.lang.AssertionError: Already disposed
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.getMessageBus(ComponentManagerImpl.java:132)
+	at com.intellij.compiler.server.BuildManager$NotifyingMessageHandler.sessionTerminated(BuildManager.java:1525)
+	at com.intellij.compiler.server.DelegatingMessageHandler.sessionTerminated(DelegatingMessageHandler.java:33)
+	at com.intellij.compiler.server.DelegatingMessageHandler.sessionTerminated(DelegatingMessageHandler.java:33)
+	at com.intellij.compiler.server.BuildMessageDispatcher$1.sessionTerminated(BuildMessageDispatcher.java:59)
+	at com.intellij.compiler.server.BuildManager.notifySessionTerminationIfNeeded(BuildManager.java:890)
+	at com.intellij.compiler.server.BuildManager.lambda$null$10(BuildManager.java:834)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$2.run(BoundedTaskExecutor.java:212)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-02-05 22:11:09,229 [1006575]  ERROR - j.compiler.server.BuildManager - IntelliJ IDEA 2017.3.4  Build #IC-173.4548.28 
+2018-02-05 22:11:09,229 [1006575]  ERROR - j.compiler.server.BuildManager - JDK: 1.8.0_152-release 
+2018-02-05 22:11:09,229 [1006575]  ERROR - j.compiler.server.BuildManager - VM: OpenJDK 64-Bit Server VM 
+2018-02-05 22:11:09,229 [1006575]  ERROR - j.compiler.server.BuildManager - Vendor: JetBrains s.r.o 
+2018-02-05 22:11:09,229 [1006575]  ERROR - j.compiler.server.BuildManager - OS: Linux 
+2018-02-05 22:11:09,235 [1006581]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2018-02-05 22:11:09,241 [1006587]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-02-05 22:18:41,392 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-02-05 22:18:41,400 [      8]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-02-05 22:18:41,400 [      8]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.25 (IDE-managed HiDPI) 
+2018-02-05 22:18:41,410 [     18]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IC-173.4548.28, 29 Jan 2018 18:41) 
+2018-02-05 22:18:41,410 [     18]   INFO -        #com.intellij.idea.Main - OS: Linux (4.13.0-32-generic, amd64) 
+2018-02-05 22:18:41,410 [     18]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1024-b11 (JetBrains s.r.o) 
+2018-02-05 22:18:41,410 [     18]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b11 (OpenJDK 64-Bit Server VM) 
+2018-02-05 22:18:41,411 [     19]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:/opt/idea-IC-173.3727.127/lib/boot.jar -Xms128m -Xmx2g -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/esirianni/java_error_in_IDEA_%p.log -XX:HeapDumpPath=/home/esirianni/java_error_in_IDEA.hprof -Didea.paths.selector=IdeaIC2017.3 -Djb.vmOptionsFile=/home/esirianni/.IdeaIC2017.3/config/idea64.vmoptions -Didea.platform.prefix=Idea -Didea.jre.check=true 
+2018-02-05 22:18:41,413 [     21]   INFO -        #com.intellij.idea.Main - ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@64aab9f9[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0] 
+2018-02-05 22:18:41,413 [     21]   INFO -        #com.intellij.idea.Main - ext: /opt/idea-IC-173.3727.127/jre64/lib/ext: [dnsns.jar, sunjce_provider.jar, nashorn.jar, jfxrt.jar, localedata.jar, sunpkcs11.jar, zipfs.jar, jaccess.jar, cldrdata.jar, meta-index, sunec.jar] 
+2018-02-05 22:18:41,413 [     21]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-02-05 22:18:41,426 [     34]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 13 ms 
+2018-02-05 22:18:41,594 [    202]   INFO - .intellij.idea.IdeaApplication - WM detected: GNOME Shell 
+2018-02-05 22:18:41,595 [    203]   INFO - llij.openapi.wm.impl.X11UiUtil - impersonated WM: MUTTER_WM 
+2018-02-05 22:18:42,110 [    718]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2018-02-05 22:18:42,531 [   1139]   INFO - llij.ide.plugins.PluginManager - Plugin 'CVS Integration' can't be loaded because: Plugin is disabled 
+2018-02-05 22:18:42,540 [   1148]   INFO - llij.ide.plugins.PluginManager - Plugin 'Subversion Integration' can't be loaded because: Plugin is disabled 
+2018-02-05 22:18:42,542 [   1150]   INFO - llij.ide.plugins.PluginManager - Plugin 'XPathView + XSLT Support' can't be loaded because: Plugin is disabled 
+2018-02-05 22:18:42,543 [   1151]   INFO - llij.ide.plugins.PluginManager - Plugin 'XSLT-Debugger' can't be loaded because: Plugin is disabled 
+2018-02-05 22:18:42,543 [   1151]   INFO - llij.ide.plugins.PluginManager - Plugin 'Ant Support' can't be loaded because: Plugin is disabled 
+2018-02-05 22:18:42,543 [   1151]   INFO - llij.ide.plugins.PluginManager - Plugin 'TestNG-J' can't be loaded because: Plugin is disabled 
+2018-02-05 22:18:42,544 [   1152]   INFO - llij.ide.plugins.PluginManager - Plugin 'UI Designer' can't be loaded because: Plugin is disabled 
+2018-02-05 22:18:42,544 [   1152]   INFO - llij.ide.plugins.PluginManager - Plugin 'Plugin DevKit' can't be loaded because: Plugin is disabled 
+2018-02-05 22:18:42,545 [   1153]   INFO - llij.ide.plugins.PluginManager - Plugin 'Android Support' can't be loaded because: Plugin is disabled 
+2018-02-05 22:18:42,628 [   1236]   INFO - llij.ide.plugins.PluginManager - 38 plugins initialized in 851 ms 
+2018-02-05 22:18:42,629 [   1237]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Bytecode Viewer (0.1), Copyright (8.1), Coverage (173.4548.28), Eclipse Integration (3.0), EditorConfig (173.4548.28), Git Integration (8.1), GitHub (173.4548.28), Gradle (173.4548.28), Groovy (9.0), I18n for Java (173.4548.28), IDEA CORE (173.4548.28), IntelliLang (8.0), JUnit (1.0), Java Bytecode Decompiler (173.4548.28), Java Stream Debugger (173.4548.28), JavaFX (1.0), Maven Integration (173.4548.28), Mercurial Integration (10.0), Properties Support (173.4548.28), Settings Repository (173.4548.28), Task Management (1.0), Terminal (0.1), YAML (173.4548.28) 
+2018-02-05 22:18:42,629 [   1237]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: .ignore (2.4.0), BashSupport (1.6.12.173), CheckStyle-IDEA (5.17.0), Kotlin (1.2.21-release-IJ2017.3-1), Markdown support (173.4301.21), Swagger Plugin (1.0.5) 
+2018-02-05 22:18:42,629 [   1237]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Android Support (10.2.3), Ant Support (1.0), CVS Integration (11), Plugin DevKit (1.0), Subversion Integration (1.1), TestNG-J (8.0), UI Designer (173.4548.28), XPathView + XSLT Support (4), XSLT-Debugger (1.4) 
+2018-02-05 22:18:43,411 [   2019]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=1994 
+2018-02-05 22:18:43,633 [   2241]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /opt/idea-IC-173.3727.127/bin/fsnotifier64 
+2018-02-05 22:18:43,651 [   2259]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-02-05 22:18:44,375 [   2983]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=15, fontScale=1.25; restored: fontSize=15, fontScale=1.25 
+2018-02-05 22:18:44,747 [   3355]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@71606ec1 
+2018-02-05 22:18:44,891 [   3499]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-02-05 22:18:44,971 [   3579]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-02-05 22:18:45,044 [   3652]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-02-05 22:18:45,445 [   4053]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:294 
+2018-02-05 22:18:45,451 [   4059]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:6 
+2018-02-05 22:18:45,487 [   4095]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:25 
+2018-02-05 22:18:45,488 [   4096]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2018-02-05 22:18:45,819 [   4427]   INFO - plication.impl.ApplicationImpl - 82 application components initialized in 4049ms 
+2018-02-05 22:18:45,832 [   4440]   INFO - .intellij.idea.IdeaApplication - App initialization took 5077 ms 
+2018-02-05 22:18:46,438 [   5046]   INFO - pl$FileIndexDataInitialization - Initialization done:986 
+2018-02-05 22:18:46,529 [   5137]   INFO - exImpl$StubIndexInitialization - Initialization done:90 
+2018-02-05 22:18:47,201 [   5809]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@70569af4 
+2018-02-05 22:18:47,654 [   6262]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=15, fontScale=1.25 
+2018-02-05 22:18:47,659 [   6267]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.25; restored: fontSize=14, fontScale=1.25 
+2018-02-05 22:18:47,759 [   6367]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.25; restored: fontSize=12, fontScale=1.25 
+2018-02-05 22:18:47,763 [   6371]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.25; restored: fontSize=12, fontScale=1.25 
+2018-02-05 22:18:47,763 [   6371]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=11, fontScale=1.25; restored: fontSize=11, fontScale=1.25 
+2018-02-05 22:18:47,791 [   6399]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=11, fontScale=1.25; restored: fontSize=11, fontScale=1.25 
+2018-02-05 22:18:48,394 [   7002]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2018-02-05 22:18:48,728 [   7336]   INFO - ea.checkstyle.CheckStylePlugin - CheckStyle Plugin loaded with project base dir: "/home/esirianni/tmp/demo" 
+2018-02-05 22:18:48,896 [   7504]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@43662a9e 
+2018-02-05 22:18:48,972 [   7580]   INFO - ellij.project.impl.ProjectImpl - 134 project components initialized in 1989 ms 
+2018-02-05 22:18:49,301 [   7909]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@5e26b63a 
+2018-02-05 22:18:49,314 [   7922]   INFO - ckstyle.CheckStyleModulePlugin - CheckStyle Module Plugin loaded for module: "demo" 
+2018-02-05 22:18:50,015 [   8623]   INFO - ckstyle.CheckStyleModulePlugin - CheckStyle Module Plugin loaded for module: "demo_test" 
+2018-02-05 22:18:50,017 [   8625]   INFO - ckstyle.CheckStyleModulePlugin - CheckStyle Module Plugin loaded for module: "demo_main" 
+2018-02-05 22:18:50,018 [   8626]   INFO - le.impl.ModuleManagerComponent - 3 module(s) loaded in 1028 ms 
+2018-02-05 22:18:50,212 [   8820]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-02-05 22:18:50,965 [   9573]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:18:51,029 [   9637]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/home/esirianni/tmp/demo] 
+2018-02-05 22:18:51,220 [   9828]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 36ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:18:51,651 [  10259]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-02-05 22:18:52,243 [  10851]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [] using cp:  
+2018-02-05 22:18:52,295 [  10903]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /usr/lib/jvm/java-1.8.0-openjdk-amd64 
+2018-02-05 22:18:52,300 [  10908]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [org.gradle.kotlin.dsl.KotlinBuildScript] using cp: /home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-core-api-4.2.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-core-4.2.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-kotlin-dsl-tooling-models-0.11.1.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-kotlin-dsl-0.11.1.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-kotlin-dsl-tooling-builders-0.11.1.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/kotlin-stdlib-1.1.4-3.jar 
+2018-02-05 22:18:52,307 [  10915]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /usr/lib/jvm/java-1.8.0-openjdk-amd64 
+2018-02-05 22:18:52,308 [  10916]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [org.gradle.kotlin.dsl.KotlinSettingsScript] using cp: /home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-core-api-4.2.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-core-4.2.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-kotlin-dsl-tooling-models-0.11.1.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-kotlin-dsl-0.11.1.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/gradle-kotlin-dsl-tooling-builders-0.11.1.jar:/home/esirianni/.gradle/wrapper/dists/gradle-4.2-bin/cl9xe1l8k8ophj72k8rv6xbu7/gradle-4.2/lib/kotlin-stdlib-1.1.4-3.jar 
+2018-02-05 22:18:52,566 [  11174]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 1485ms under project opening modal progress 
+2018-02-05 22:18:52,780 [  11388]   INFO - tartup.impl.StartupManagerImpl - InitToolWindowsActivity run in 214ms under project opening modal progress 
+2018-02-05 22:18:53,472 [  12080]   INFO - tartup.impl.StartupManagerImpl - ExternalSystemStartupActivity run in 684ms under project opening modal progress 
+2018-02-05 22:18:53,509 [  12117]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 2451ms; general responsiveness: ok; EDT responsiveness: 0/2 sluggish, 1/2 very slow 
+2018-02-05 22:18:55,062 [  13670]   INFO - j.ide.ui.OptionsTopHitProvider - 671 ms spent to cache options in application 
+2018-02-05 22:18:55,219 [  13827]   INFO - tartup.impl.StartupManagerImpl - /home/esirianni/tmp/demo/.idea case-sensitivity: expected=true actual=true 
+2018-02-05 22:18:55,305 [  13913]   INFO -                git4idea.GitVcs - Git version: 2.16.1.0 (UNIX) 
+2018-02-05 22:18:55,650 [  14258]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/home/esirianni/tmp/demo] 
+2018-02-05 22:18:57,374 [  15982]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 10578 ms 
+2018-02-05 22:18:58,313 [  16921]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 7091ms; general responsiveness: ok; EDT responsiveness: 1/7 sluggish, 2/7 very slow 
+2018-02-05 22:18:58,313 [  16921]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 1 files to update 
+2018-02-05 22:18:58,416 [  17024]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 103ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:18:58,422 [  17030]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 1 to update, calculated in 5ms 
+2018-02-05 22:18:58,535 [  17143]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 113ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-05 22:18:58,743 [  17351]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2018-02-05 22:18:58,743 [  17351]   INFO - tartup.impl.StartupManagerImpl - ProjectInspectionProfileStartUpActivity run in 198ms on UI thread 
+2018-02-05 22:18:58,792 [  17400]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 2/5/18 8:08 PM) 
+2018-02-05 22:18:58,962 [  17570]   INFO - tartup.impl.StartupManagerImpl - GradleStartupActivity run in 137ms on UI thread 
+2018-02-05 22:18:59,596 [  18204]   INFO - j.ide.ui.OptionsTopHitProvider - 397 ms spent to cache options in project 
+2018-02-05 22:19:01,475 [  20083]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:19:14,253 [  32861]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:19:14,253 [  32861]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:19:14,911 [  33519]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:19:14,915 [  33523]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:19:18,165 [  36773]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:19:18,167 [  36775]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:19:18,728 [  37336]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:19:18,806 [  37414]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:19:21,693 [  40301]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:19:21,693 [  40301]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:19:22,314 [  40922]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:19:22,327 [  40935]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:19:25,045 [  43653]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:19:25,045 [  43653]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:19:25,616 [  44224]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:19:25,698 [  44306]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:19:28,253 [  46861]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:19:28,253 [  46861]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:19:28,889 [  47497]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:19:28,908 [  47516]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
+2018-02-05 22:19:31,438 [  50046]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-02-05 22:19:31,438 [  50046]   INFO - s.CompilerReferenceServiceImpl - backward reference index reader doesn't exist 
+2018-02-05 22:19:32,050 [  50658]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /opt/idea-IC-173.3727.127/lib/jps-launcher.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/tools.jar:/opt/idea-IC-173.3727.127/lib/optimizedFileManager.jar:/opt/idea-IC-173.3727.127/lib/ecj-4.7.2.jar 
+2018-02-05 22:19:32,091 [  50699]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile /home/esirianni/tmp/demo 
